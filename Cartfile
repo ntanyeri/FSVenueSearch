@@ -1,0 +1,102 @@
+#____    _    ____ _____ _   _    _    ____ _____
+#/ ___|  / \  |  _ \_   _| | | |  / \  / ___| ____|
+#| |     / _ \ | |_) || | | |_| | / _ \| |  _|  _|
+#| |___ / ___ \|  _ < | | |  _  |/ ___ \ |_| | |___
+#\____/_/   \_\_| \_\|_| |_| |_/_/   \_\____|_____|
+
+# Alamofire
+# Alamofire is an HTTP networking library written in Swift.
+# https://github.com/Alamofire/Alamofire
+github "Alamofire/Alamofire" ~> 3.0
+
+# AlamofireNetworkActivityIndicator
+# Controls the visibility of the network activity indicator on iOS using Alamofire.
+# https://github.com/Alamofire/AlamofireNetworkActivityIndicator
+github "Alamofire/AlamofireNetworkActivityIndicator" ~> 1.0
+
+# SwiftyJSON
+# SwiftyJSON makes it easy to deal with JSON data in Swift.
+# https://github.com/SwiftyJSON/SwiftyJSON
+github "SwiftyJSON/SwiftyJSON" "xcode7.1"
+
+# Kingfisher
+# Kingfisher is a lightweight and pure Swift implemented library for downloading and caching image from the web.
+# https://github.com/onevcat/Kingfisher
+#github "onevcat/Kingfisher" >= 1.8
+
+# AlamofireImage
+# AlamofireImage is an image component library for Alamofire.
+# https://github.com/Alamofire/AlamofireImage
+# github "Alamofire/AlamofireImage" ~> 2.0
+
+# Starscream
+# Starscream is a conforming WebSocket (RFC 6455) client library in Swift for iOS and OSX.
+# https://github.com/daltoniam/Starscream
+# github "daltoniam/Starscream"
+
+# Reachability.swift
+# Reachability.swift is a replacement for Apple's Reachability sample, re-written in Swift with closures.
+# https://github.com/ashleymills/Reachability.swift
+# github "ashleymills/Reachability.swift"
+
+# Hue
+# Hue is the all-in-one coloring utility that you'll ever need.
+# https://github.com/hyperoslo/Hue
+# github "hyperoslo/Hue"
+
+# Realm
+# Realm is a mobile database: a replacement for Core Data & SQLite https://realm.io
+# https://github.com/realm/realm-cocoa
+# github "realm/realm-cocoa"
+
+# TextFieldEffects
+# Custom UITextFields effects inspired by Codrops, built using Swift
+# https://github.com/raulriera/TextFieldEffects
+# github "raulriera/TextFieldEffects"
+
+# SCLAlertView-Swift
+# Beautiful animated Alert View. Written in Swift
+# https://github.com/vikmeup/SCLAlertView-Swift
+# github "vikmeup/SCLAlertView-Swift"
+
+# PhoneNumberKit
+# A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.
+# https://github.com/marmelroy/PhoneNumberKit
+# github "marmelroy/PhoneNumberKit"
+
+# Material
+# Express your creativity with Material, an animation and graphics framework for Google's Material Design and Apple's Flat UI in Swift.
+# https://github.com/CosmicMind/Material
+# github "CosmicMind/Material"
+
+# SwiftyBeaver
+# SwiftyBeaver is the colorful, extensible & lightweight logger for Swift 2. Great for development & release due to its support for many (custom) logging destinations & platforms
+# https://github.com/SwiftyBeaver/SwiftyBeaver
+# github "SwiftyBeaver/SwiftyBeaver"
+
+# Locksmith
+# A powerful, protocol-oriented library for working with the keychain in Swift.
+# https://github.com/matthewpalmer/Locksmith
+# github "matthewpalmer/Locksmith"
+
+# KeychainAccess
+# Simple Swift wrapper for Keychain that works on iOS and OS X
+# https://github.com/kishikawakatsumi/KeychainAccess#accessibility
+# github "kishikawakatsumi/KeychainAccess"
+
+# keychain-swift
+# Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS. X
+# https://github.com/marketplacer/keychain-swift
+github "marketplacer/keychain-swift" ~> 3.0
+
+# NVActivityIndicatorView
+# Collection of nice loading animations
+# https://github.com/ninjaprox/NVActivityIndicatorView
+# github "ninjaprox/NVActivityIndicatorView"
+
+# Whisper
+# Whisper is a component that will make the task of display messages and in-app notifications simple. It has three different views inside http://hyper.no
+# https://github.com/ninjaprox/hyperoslo/Whisper
+# github "hyperoslo/Whisper"
+
+#github "entotsu/TKSwarmAlert"

@@ -1,0 +1,4 @@
+github "Alamofire/Alamofire" "3.3.1"
+github "SwiftyJSON/SwiftyJSON" "3db7e39b11b58c91a0a360381ec7620b2caab46a"
+github "marketplacer/keychain-swift" "3.0.13"
+github "Alamofire/AlamofireNetworkActivityIndicator" "1.0.1"

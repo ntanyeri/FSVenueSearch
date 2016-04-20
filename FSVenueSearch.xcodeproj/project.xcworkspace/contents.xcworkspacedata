@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:hepsiburada.xcodeproj">
+      location = "self:/Users/ntanyeri/Desktop/hepsiburada/FSVenueSearch.xcodeproj">
    </FileRef>
 </Workspace>
